@@ -2,3 +2,4 @@ morc_menu = z-menu -> mod+z
 bmenu_run = b-menu -> mod+Ctrl+b
 browser -> mod+F
 xkill -> mod+Ctrl+x
+help -> mod+Shift+h
