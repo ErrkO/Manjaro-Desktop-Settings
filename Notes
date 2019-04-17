@@ -1,2 +1,4 @@
-morc_menu = z-menu
-bmenu_run = b-menu
+morc_menu = z-menu -> mod+z
+bmenu_run = b-menu -> mod+Ctrl+b
+browser -> mod+F
+xkill -> mod+Ctrl+x
