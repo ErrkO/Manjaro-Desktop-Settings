@@ -1,0 +1,1 @@
+# Temp Script to install AUR Packages for initial setup
